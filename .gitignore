@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # data from dataset
-.jpg
-.jpeg
+*.jpg
+*.jpeg
